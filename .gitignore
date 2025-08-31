@@ -8,6 +8,7 @@ __pycache__/
 
 # files
 instructions.md
+artifacts/*
 
 # Distribution / packaging
 .Python
